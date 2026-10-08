@@ -1,10 +1,10 @@
 <p align="center">
-  <a><img src="./assets/banner.svg" width="100%" alt="Gabriel Lacerda — Fullstack Developer. From the database to the last pixel. SaaS, e-commerce, and Microsoft 365." /></a>
+  <img src="./assets/banner.svg" width="100%" alt="Gabriel Lacerda — Fullstack Developer. From the database to the last pixel. SaaS, e-commerce, and Microsoft 365." />
 </p>
 
 <p align="center">
-  <a href="https://www.gabriel-lacerda.com" target="_blank" rel="noopener noreferrer">Explore my portfolio</a> ·
-  <a href="https://www.linkedin.com/in/gabriel-lacerda-nascimento" target="_blank" rel="noopener noreferrer">Connect on LinkedIn</a>
+  <a href="https://www.gabriel-lacerda.com"><img src="./assets/portfolio.svg" height="36" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-lacerda-nascimento"><img src="./assets/linkedin.svg" height="36" alt="Connect on LinkedIn" /></a>
 </p>
 
 ### Building products that people use.
@@ -16,7 +16,7 @@ I'm a fullstack developer based in **Brazil**, working with **international team
 ### My everyday stack
 
 <p>
-  <a><img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,docker,aws,azure&amp;perline=8" width="420" alt="TypeScript, React, Next.js, Node.js, PostgreSQL, Docker, AWS, and Azure" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,docker,aws,azure&amp;perline=8" width="420" alt="TypeScript, React, Next.js, Node.js, PostgreSQL, Docker, AWS, and Azure" />
 </p>
 
 **Also:** Astro · MySQL · Shopify · Stripe · SPFx · Power Automate
