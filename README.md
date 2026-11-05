@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.gabriel-lacerda.com"><img src="./assets/portfolio.svg" height="36" alt="Explore my portfolio" /></a>
+  <a href="https://www.dev.gabriel-lacerda.com/en"><img src="./assets/portfolio.svg" height="36" alt="Explore my portfolio" /></a>
   <a href="https://www.linkedin.com/in/gabriel-lacerda-nascimento"><img src="./assets/linkedin.svg" height="36" alt="Connect on LinkedIn" /></a>
 </p>
 
